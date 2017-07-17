@@ -1,3 +1,5 @@
 This is a nozzle cleaning and polishing tool for 3D printers; it is primarily intended for delta printers which can't easily move the head off the bed. When connected to your control board it can be activated to swing into position, then the nozzle can self-clean and polish before the cleaner is retracted and the print starts normally.
 
 This is designed for a [Hitec 31311S HS-311 servo](https://smile.amazon.com/Hitec-31311S-HS-311-Standard-Universal/dp/B0006O3WVE/); they're about $10 on Amazon and have a variety of servo horns. The brush is a [ten-pack of nylon wire brushes](https://smile.amazon.com/gp/product/B00YME2JE0/ref=crt_ewc_title_gw_1?ie=UTF8&psc=1&smid=AIR2VQG8HOY2R) for about $5 on Amazon. A small amount of leather is recommended; this might be best sourced from a local craft store. Please make sure you get real leather for this application. The leather should be glued into the groove to ensure it does not come loose.
+
+This is entirely untested at this time and will likely need revision; I'm pretty sure it will need more clearance for the brushes but I'm not sure how much more it will need. I will revise once I have tested.
